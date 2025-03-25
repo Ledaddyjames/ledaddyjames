@@ -1,4 +1,5 @@
-## Hi there 👋
+## whats up 
+## if you found this site then enjoy!!
 
 <!--
 **Ledaddyjames/ledaddyjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
